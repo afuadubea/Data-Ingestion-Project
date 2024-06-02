@@ -2,8 +2,8 @@ import zipfile
 import os
 
 # Define the folder containing the CSV files and the zip file name
-folder = r'C:\Users\DELL\Downloads\Capstone Project\updated data'
-zip_file = 'Perfume_data.zip'  # Ensure the zip file has a .zip extension
+folder = 'your_folder_path'
+zip_file = 'zip_file_name.zip'  # Ensure the zip file has a .zip extension
 
 try:
     # Check if the folder exists
