@@ -121,7 +121,7 @@ Perfumes are segmented into luxury, mid-range, and budget categories. Luxury bra
  Female-oriented perfumes tend to be priced higher on average compared to male-oriented perfumes, possibly due to brand positioning and marketing strategies.
 
 ## Impact
-a. ### Consumer Insights for Marketing:
+a). ## Consumer Insights for Marketing:
 - #### Targeted Campaigns:
   Brands can utilize these insights to design targeted marketing campaigns that appeal specifically to the preferences of men and women. For example, emphasizing fresh and woody notes in marketing to men, and 
   floral and oriental notes to women.
